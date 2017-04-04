@@ -1,2 +1,2 @@
-**Tensor Flow projects**
-this repo will contain small tensorflow projects, some will be just straight from documentation
+#TensorFlow Projects
+Some interesting projects using TF 1.0 with some advanced as well as beginner programmes implementing various algorithms on MNIST Dataset/
